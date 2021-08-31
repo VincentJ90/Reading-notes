@@ -4,3 +4,8 @@ Growth Mindset to mindset to me means staying positive and realizing that everyt
 stay srong and remember why pivot is important.
 learn somthing new everyday to help me in my course.
 listen and pay attention and ask questions all the time
+https://docusaurus.io/ Mark down features for building better content for website.
+https://codedoc.cc/docs/markdown/overview#component-syntax
+https://codedoc.cc/docs/markdown/overview#linked-components
+https://codedoc.cc/docs/markdown/overview#tabs
+https://codedoc.cc/docs/markdown/overview#buttons
