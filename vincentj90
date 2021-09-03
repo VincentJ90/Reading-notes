@@ -1,0 +1,17 @@
+mastering markdown 
+Markdown is a way to style text on the web.
+header of page can be used by these commands.
+# This is an <h1> tag
+## This is an <h2> tag
+###### This is an <h6> tag
+If you want to add emphasis on your text it should look like this.
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
+for images you can use this basic syntext to get you started,
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
